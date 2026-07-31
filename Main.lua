@@ -4014,27 +4014,27 @@ Dark={
 Name="Dark",
 
 Accent=Color3.fromHex"#FFFFFF",
-Dialog=Color3.fromHex"#000000",
+Dialog=Color3.fromHex"#1a1a1a",
 Outline=Color3.fromHex"#FFFFFF",
 Text=Color3.fromHex"#FFFFFF",
 Placeholder=Color3.fromHex"#FFFFFF",
-Background=Color3.fromHex"#000000",
+Background=Color3.fromHex"#101010",
 Button=Color3.fromHex"#FFFFFF",
 Icon=Color3.fromHex"#FFFFFF",
 Toggle=Color3.fromHex"#FFFFFF",
 Slider=Color3.fromHex"#FFFFFF",
 Checkbox=Color3.fromHex"#FFFFFF",
 
-PanelBackground=Color3.fromHex"#000000",
+PanelBackground=Color3.fromHex"#FFFFFF",
 PanelBackgroundTransparency=0.95,
 
-SliderIcon=Color3.fromHex"#000000",
+SliderIcon=Color3.fromHex"#FFFFFF",
 Primary=Color3.fromHex"#FFFFFF",
 
 LabelBackground=Color3.fromHex"#000000",
 LabelBackgroundTransparency=0.83,
 
-ElementBackground=Color3.fromHex"#000000",
+ElementBackground=Color3.fromHex"#2A2A2C",
 ElementBackgroundTransparency=0
 
 },
