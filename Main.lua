@@ -14944,11 +14944,11 @@ J=true
 
 aw:Dialog{
 
-Title="Close Window",
-Content="Do you want to close this window? You will not be able to open it again.",
+Title="Fechar Hub",
+Content="Deseja Mesmo Fechar o Hub?",
 Buttons={
 {
-Title="Cancel",
+Title="Não",
 
 Callback=function()
 J=false
@@ -14956,7 +14956,7 @@ end,
 Variant="Secondary",
 },
 {
-Title="Close Window",
+Title="Sim",
 
 Callback=function()
 J=false
