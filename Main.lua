@@ -4028,7 +4028,7 @@ Checkbox=Color3.fromHex"#FFFFFF",
 PanelBackground=Color3.fromHex"#000000",
 PanelBackgroundTransparency=0.95,
 
-SliderIcon=Color3.fromHex"#FFFFFF",
+SliderIcon=Color3.fromHex"#000000",
 Primary=Color3.fromHex"#FFFFFF",
 
 LabelBackground=Color3.fromHex"#000000",
