@@ -4013,29 +4013,30 @@ return{
 Dark={
 Name="Dark",
 
-Accent=Color3.fromHex"#8B00FF",
-Dialog=Color3.fromHex"#1a1a1a",
-Outline=Color3.fromHex"#8B00FF",
-Text=Color3.fromHex"#8B00FF",
-Placeholder=Color3.fromHex"#8B00FF",
-Background=Color3.fromHex"#101010",
-Button=Color3.fromHex"#8B00FF",
-Icon=Color3.fromHex"#8B00FF",
-Toggle=Color3.fromHex"#8B00FF",
-Slider=Color3.fromHex"#8B00FF",
-Checkbox=Color3.fromHex"#8B00FF",
+Accent=Color3.fromHex"#FFFFFF",
+Dialog=Color3.fromHex"#000000",
+Outline=Color3.fromHex"#FFFFFF",
+Text=Color3.fromHex"#FFFFFF",
+Placeholder=Color3.fromHex"#FFFFFF",
+Background=Color3.fromHex"#000000",
+Button=Color3.fromHex"#FFFFFF",
+Icon=Color3.fromHex"#FFFFFF",
+Toggle=Color3.fromHex"#FFFFFF",
+Slider=Color3.fromHex"#FFFFFF",
+Checkbox=Color3.fromHex"#FFFFFF",
 
-PanelBackground=Color3.fromHex"#101010",
+PanelBackground=Color3.fromHex"#000000",
 PanelBackgroundTransparency=0.95,
 
-SliderIcon=Color3.fromHex"#8B00FF",
-Primary=Color3.fromHex"#8B00FF",
+SliderIcon=Color3.fromHex"#FFFFFF",
+Primary=Color3.fromHex"#FFFFFF",
 
 LabelBackground=Color3.fromHex"#000000",
 LabelBackgroundTransparency=0.83,
 
-ElementBackground=Color3.fromHex"#1a1a1a",
+ElementBackground=Color3.fromHex"#000000",
 ElementBackgroundTransparency=0
+
 },
 
 Light={
